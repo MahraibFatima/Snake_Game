@@ -59,7 +59,7 @@ java Main
 ![Start of the Game](img/Game_start_screen.png)
 
 ### b. Game Running
-![Game Running](img/Snake_movement.png)
+![Game Running](img/Snake_Movement.png)
 
 ### c. Game Over
 ![Game Over](img/Game_over_screen.png)
@@ -86,7 +86,3 @@ Feel free to fork this repository and improve the game with additional features,
 
 ## License
 This project is open-source and free to use for learning or personal purposes.
-
-
-#
-![img/GameWindow.png](img/GameWindow.png)
